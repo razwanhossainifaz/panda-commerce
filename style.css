@@ -42,3 +42,12 @@ body{
 .categories img{
     width:120px
 }
+.allign-items-center{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 20px gray;
+}
