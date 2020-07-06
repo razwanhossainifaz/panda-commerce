@@ -42,7 +42,7 @@ body{
 .categories img{
     width:120px
 }
-.allign-items-center{
+.head-center{
     text-align: center;
     font-size: 50px;
     margin-bottom: 20px;
@@ -50,4 +50,23 @@ body{
 .card{
     border: none;
     box-shadow: 5px 5px 20px gray;
+}
+#shoes p{
+    color: #595959;
+}
+#backpack p{
+    color: #595959;   
+}
+#contactus{
+    height: 300px;
+}
+#contactus h6{
+    color: #595959;
+}
+.buy-now-button2{
+    color: #ffffff;
+    margin-top: 5px;
+    padding: 10px 40px;
+    border-radius: 10px;
+    background-image: linear-gradient(to bottom, #FF4E95 0%, #FF1C74 100%);
 }
