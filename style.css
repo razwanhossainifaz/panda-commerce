@@ -18,6 +18,7 @@ body{
     color: #ffffff;
     padding: 10px 40px;
     border-radius: 10px;
+    border: none;
     background-image: linear-gradient(to bottom, #FF4E95 0%, #FF1C74 100%);
 }
 .cat1{
@@ -68,5 +69,6 @@ body{
     margin-top: 5px;
     padding: 10px 40px;
     border-radius: 10px;
+    border: none;
     background-image: linear-gradient(to bottom, #FF4E95 0%, #FF1C74 100%);
 }
